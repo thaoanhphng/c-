@@ -1,0 +1,3 @@
+1.  Schreiben Sie ein C++ Programm, das einen String einliest und testet, ob der erste und der letzte
+Buchstabe eines Strings identisch ist.(siehe Blatt 2) 2.  Schreiben Sie ein Programm read.cxx und lesen Sie folgendes ein: (siehe Blatt 2)
+Eingabe einer Zahl Eingabe von mehreren Zahlen Eingabe eines Wortes (ohne Umlaut) Eingabe von zwei Worten (ohne Umlaut) Eingabe von Umlauten Eingabe einer ganzen Zeile (mit Umlauten)
